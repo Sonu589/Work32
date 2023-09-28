@@ -4,6 +4,31 @@
 
 This Quiz Application is a web-based platform that allows users to participate in quizzes and test their knowledge on various topics. The application fetches quiz questions from an external API and presents them to users one at a time. Users can select their answers, track their progress, and view their scores at the end of the quiz.
 
+## Project Overview:-
+**Main Page (User Login With Email Address)**
+
+![Screenshot (994)](https://github.com/Sonu589/Work32/assets/78155991/0caaba20-d911-46d9-a36a-020e21cc6f26)
+
+**Quiz Page**
+
+![Screenshot (995)](https://github.com/Sonu589/Work32/assets/78155991/4b00d58a-29da-4881-b47e-8e7ae079113d)
+
+**Display Result**
+
+![Screenshot (996)](https://github.com/Sonu589/Work32/assets/78155991/a51a3195-66d1-4f07-9f9c-d8600d7b48b8)
+
+**Show Answer Report Part-A**
+
+![Screenshot (997)](https://github.com/Sonu589/Work32/assets/78155991/73dbf8a2-905a-4800-a1b8-012202abafa3)
+
+**Show Answer Report Part-B**
+
+![Screenshot (998)](https://github.com/Sonu589/Work32/assets/78155991/9caa84db-92ec-4eb2-b96e-acb2d2e729c1)
+
+**Show Answer Report Part-C**
+
+![Screenshot (999)](https://github.com/Sonu589/Work32/assets/78155991/c986c3a5-ef29-424f-8b87-231655cf7110)
+
 ### Approach
 
 The application is built using React, a popular JavaScript library for building user interfaces. It makes use of various React components to create a dynamic and interactive quiz experience. Here's a brief overview of the components:
@@ -27,13 +52,16 @@ To run this application locally, follow these steps:
 
 1. Navigate to the project directory:
 
-    ```bash cd quiz-application
+    ```bash
+    cd quiz-application
 
 2. Install the required dependencies:
-    ```bash npm install
+    ```bash
+    npm install
 
 3. Start the development server:
-    ```bash npm start
+    ```bash
+    npm start
 4. Open your web browser and access the application at http://localhost:3000.
 
 # Assumptions
